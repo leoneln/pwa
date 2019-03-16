@@ -1,5 +1,5 @@
 //flag for enabling cache in production
-var doCache = false;
+var doCache = true;
 
 var CHACE_NAME = "pwa-app-cache";
 
